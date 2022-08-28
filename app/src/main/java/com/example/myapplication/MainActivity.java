@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         temperatureTV = findViewById(R.id.idTVTemperature);
         conditionTV = findViewById(R.id.idTVCondition);
         iconIV = findViewById(R.id.idIVIcon);
-        weatherRV = findViewById(R.id.idRVWeather);
+       // weatherRV = findViewById(R.id.idRVWeather);
 
 
     }
