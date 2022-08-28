@@ -26,6 +26,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".SpotifyPlayer">//aca podriamos poner que sea transparente</activity>
     </application>
 
 </manifest>
